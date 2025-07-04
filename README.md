@@ -30,8 +30,9 @@ Install dependencies (if running from source):
 
 📦 Running the App <br>
 ```bash python EASY_Plotter.py ``` <br>
-Or use the pre-built executable from the Releases section (no Python needed).
-
+Or use the pre-built executable (No python needed)<br>
+https://drive.google.com/file/d/1jyvDSx4m2nIT8nIJupbb9gT4Q-g8eucW/view?usp=sharing <br>
+<br>
 📁 Usage
 Launch the app.
 
