@@ -1,6 +1,6 @@
-# TARSR-PLOTTER
+# EASY-PLOTTER
 
-**TARSR-PLOTTER** is a user-friendly desktop tool built with PyQt5 and Matplotlib for visualizing CSV data as interactive line graphs. It features zooming, panning, point highlighting from a table, and more – making data analysis smooth and intuitive.
+**EASY-PLOTTER** is a user-friendly desktop tool built with PyQt5 and Matplotlib for visualizing CSV data as interactive line graphs. It features zooming, panning, point highlighting from a table, and more – making data analysis smooth and intuitive.
 
 ---
 
@@ -29,7 +29,7 @@ Install dependencies (if running from source):
 ```pip install -r requirements.txt ```
 
 📦 Running the App <br>
-```bash python TARSR_Plotter.py ``` <br>
+```bash python EASY_Plotter.py ``` <br>
 Or use the pre-built executable from the Releases section (no Python needed).
 
 📁 Usage
